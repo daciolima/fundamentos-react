@@ -8,3 +8,4 @@ REACT
 OBS React: 
 - Arquivo css deve ser por igual ao nove do arquivo .js    
 - Componentes são referenciados dentro do JSX através de tags.
+- Valores que chegam pelos atributos não podem ser alterados diretamente
